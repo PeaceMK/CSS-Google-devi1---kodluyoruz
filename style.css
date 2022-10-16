@@ -1,0 +1,51 @@
+.center {
+    text-align: center;
+}
+/* Arama yeri ve butonları */
+.grey-background {
+    background-color: rgb(224, 221, 221);
+}
+
+.margin-0 {
+    margin: 0;
+}
+
+.padding-0 {
+    padding: 0;
+}
+
+.padding-button {
+    padding: 3px 5px;
+}
+
+/* Maviş kutucuklar*/
+.flexbox{
+    display: flex;
+    justify-content:center;
+    flex-flow: row wrap;
+    padding: 15px 30px;
+    max-height: 20%;
+    height: 70px;
+}
+#special-searches {
+    background-color: rgb(159, 241, 214);
+    
+    width: 36%;
+    border: 1px solid black;
+    margin: 0px 1.5px;
+}
+
+#links {
+    background-color: rgb(159, 241, 214);
+    width: 20%;
+    
+    border: 1px solid black;
+    margin: 0px 1.5px;
+}
+
+#get-updates {
+    background-color: rgb(159, 241, 214);
+    width: 36%;
+    border: 1px solid black;
+    margin: 0px 1.5px;
+}
